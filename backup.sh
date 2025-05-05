@@ -5,4 +5,8 @@ cp --parents -r /home/achester88/.config/nvim/init.lua ./fedroa-hyperland-config
 cp --parents -r /home/achester88/.config/wofi/ ./fedroa-hyperland-config/
 cp --parents -r /home/achester88/.config/starship.toml ./fedroa-hyperland-config/
 
+git add .
 
+git commit -m "auto"
+
+git push-u origiin main
