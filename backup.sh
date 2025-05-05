@@ -7,6 +7,6 @@ cp --parents -r /home/achester88/.config/starship.toml ./fedroa-hyperland-config
 
 git add .
 
-git commit -m "auto"
+git commit -m "$(date)"
 
 git push origin main
