@@ -9,4 +9,4 @@ git add .
 
 git commit -m "auto"
 
-git push-u origiin main
+git push origin main
